@@ -5,7 +5,7 @@ This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autofo
 
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/brainahc/c-to-c-Bot)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
+
 
 ## How to Deploy? 🤔
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/brainahc/c-to-c-Bot)
@@ -29,13 +29,7 @@ This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autofo
 
 
 
-## How to reach Me ?
-<a href="https://telegram.dog/Ns_bot_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-## COMMANDS
 ### AVAILABLE COMMANDS 
-```
 start - check whether bot is alive 
 
 about - to know about me
@@ -57,3 +51,4 @@ about - to know about me
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 - [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
+```
