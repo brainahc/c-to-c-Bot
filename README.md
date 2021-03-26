@@ -1,5 +1,5 @@
 ## CHANNEL AUTO FORWARD
-This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autoforward_Nsbot)
+This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/chentochenbot)
 
 **NOTE:** There is more difference between my bot and this repo. But the purposes is same
 
